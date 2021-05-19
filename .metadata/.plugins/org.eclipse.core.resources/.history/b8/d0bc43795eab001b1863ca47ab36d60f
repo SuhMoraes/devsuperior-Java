@@ -1,0 +1,5 @@
+package com.devsuperior.aulajpa.entities;
+
+public class User {
+
+}
